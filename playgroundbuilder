@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)https://files.numuki.com/games/paw-patrol/paw-patrol_pawsome-playground-builder/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Nickelodeon</title>
+<meta name="robots" content="noindex,nofollow">
+<script src="./Nickelodeon_files/jsembed.js.download"></script><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"><meta name="HandheldFriendly" content="true">
+<script type="text/javascript">			
+			// Parameters configure jsembed itself.
+			var params = {
+				//base: "/games/data/spongebob/spongebob-bikini-bottom-bop-em/html5/", // base url of all content. Defaults ""
+				base: "",
+			 	api: "flambe", // supported custom apis are defined in jsembed. Defaults none.
+			 	autoscale: "true", // update window.canvasScale on window resize? Defaults true.
+			 	indexroot: "true", // use index url as path root? If false, uses domain root instead. Defaults false (uses domain root).
+			 	libs: ["flambe.js"] // array of libs to embed before trying to launch app. Defaults []
+			}			
+			// Attributes will be set on the embed target for use by the app. "base" will be set as well.
+			var attr = {					
+			};
+			jsembed.embed("flambe.js", "embedtarget", "960", "560", params, attr);
+		</script><script type="text/javascript" src="./Nickelodeon_files/flambe.js.download"></script>
+</head>
+<body style="padding: 0; margin: 0; background-color: black">
+<div id="embedtarget" base="" style="padding: 0px; user-select: none; overflow: hidden; width: 1508.57px; height: 880px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); left: 205.715px; top: 0px; position: relative;"><canvas id="embedtarget-canvas" tabindex="0" moz-opaque="true" style="outline-style: none; -webkit-tap-highlight-color: transparent;" width="1508" height="880"></canvas><script src="./Nickelodeon_files/main-html.js.download"></script></div>
+
+<div id="imageDownloaderSidebarContainer"><div class="image-downloader-ext-container"><div tabindex="-1" class="b-sidebar-outer"><!----><div id="image-downloader-sidebar" tabindex="-1" role="dialog" aria-modal="false" aria-hidden="true" class="b-sidebar shadow b-sidebar-right bg-light text-dark" style="width: 500px; display: none;"><!----><div class="b-sidebar-body"><div></div></div><!----></div><!----><!----></div></div></div></body></html>
